@@ -3,3 +3,4 @@
 3 tiga
 4 empat
 5 lima lima
+6 enam
